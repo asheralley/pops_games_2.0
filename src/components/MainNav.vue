@@ -17,17 +17,17 @@
             <img class="main-logo" src="src/assets/pops-logo.png" alt="pops games logo">
         </div>
         <div class="full-width">
-            <nav class="wrapper flex" id="desktop-nav">
-                <ul class="nav-main">
-                    <li><a class="main-nav-item show" href="index.html">Home</a></li>
-                    <li><a class="main-nav-item" href="games.html">Games</a></li>
-                    <li><a class="main-nav-item" href="puzzles.html">Puzzles</a></li>
-                    <li><a class="main-nav-item" href="gallery.html">Gallery</a></li>
-                    <li><a class="main-nav-item" href="hireage.html">Hireage</a></li>
-                    <li><a class="main-nav-item" href="contact.html">Contact</a></li>
-                </ul> 
-        </nav>
-       </div>
+          <nav class="wrapper flex" id="desktop-nav">
+            <ul class="nav-main">
+              <li><a class="main-nav-item show" href="index.html">Home</a></li>
+              <li><a class="main-nav-item" href="games.html">Games</a></li>
+              <li><a class="main-nav-item" href="puzzles.html">Puzzles</a></li>
+              <li><a class="main-nav-item" href="gallery.html">Gallery</a></li>
+              <li><a class="main-nav-item" href="hireage.html">Hireage</a></li>
+              <li><a class="main-nav-item" href="contact.html">Contact</a></li>
+            </ul> 
+          </nav>
+        </div>
     </header>
 </template>
 
